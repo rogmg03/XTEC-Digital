@@ -1,0 +1,18 @@
+.btn-default.btn-on.active{
+  background-color: #5BB75B;
+  color: #5BB75B;
+  font-size: 100%;
+}
+.btn-default.btn-off.active{
+  background-color: #DA4F49;
+  color: #DA4F49;
+  font-size: 100%;
+}
+.btn-default.btn-on{
+  background-color: white;
+  /*color: white;*/
+}
+.btn-default.btn-off{
+  background-color: white;
+  /*color: white;*/
+}

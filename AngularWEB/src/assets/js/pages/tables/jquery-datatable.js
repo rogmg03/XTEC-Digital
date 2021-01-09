@@ -12,3 +12,7 @@ $(function () {
         ]
     });
 });
+
+$(document).ready( function () {
+  $('#cursoTable').DataTable();
+} );
